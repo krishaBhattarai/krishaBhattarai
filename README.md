@@ -28,8 +28,10 @@ Currently Learning:
 ```
 
 ---
+<h2 align="center"> Contribution Calendar</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&theme=github-dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://ghchart.rshah.org/409ba5/krishaBhattarai" />
 </p>
 
 #  Tech Stack
