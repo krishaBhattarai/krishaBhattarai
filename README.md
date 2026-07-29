@@ -14,7 +14,7 @@ Final Year BIT Student from Nepal 🇳🇵
 <img src="https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Python+Developer;SQL+Developer;Data+Migration;Automation+Testing;Always+Learning&center=true&width=600&height=50">
 
 </p>
-                                                                                ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                                                           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                                                                           
                                                                                 KRISHA BHATTARAI
                                                                                 
@@ -22,7 +22,7 @@ Final Year BIT Student from Nepal 🇳🇵
                                                                                 Python Developer
                                                                                 Data Migration
                                                                                 
-                                                                                ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                                                           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ##  About Me
 
