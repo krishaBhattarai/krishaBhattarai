@@ -28,10 +28,7 @@ Currently Learning:
 ```
 
 ---
-<p align="center">
-<img src="https://ghchart.rshah.org/006d32/krishaBhattarai" />
-</p>
-
+<h2 align="center">📅 Contribution Calendar</h2>
 #  Tech Stack
 
 <p align="center">
