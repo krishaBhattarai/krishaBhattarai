@@ -1,35 +1,35 @@
 <div align="center">
 
-# Hi, I'm Krisha Bhattarai 👋
+# 👋 Hi, I'm Krisha Bhattarai
 
 ### QA Engineer • Python Developer • SQL • Data Migration
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Quality+Assurance+Engineer;Python+Developer;SQL+Enthusiast;Data+Migration+Specialist;Always+Learning+New+Technologies"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=QA+Engineer;Python+Developer;SQL+Developer;Data+Migration;Always+Learning+New+Things" />
+</p>
 
 </div>
 
 ---
 
-## 🌸 About Me
+# 🌸 About Me
 
 ```yaml
 Name: Krisha Bhattarai
+Role: QA Engineer
+Education: BIT Student
 Location: Nepal 🇳🇵
-Education: Final Year BIT Student
-Role: QA Intern
-Focus:
-  - Manual Testing
-  - SQL Server
-  - Python
-  - Data Migration
+
 Currently Learning:
+  - Python
+  - SQL
+  - Data Migration
   - Automation Testing
-  - GitHub Actions
 ```
 
 ---
 
-## 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -39,19 +39,19 @@ Currently Learning:
 
 ---
 
-## 📈 GitHub Analytics
+#  GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishaBhattarai&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=krishaBhattarai&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Most Used Languages
+#  Most Used Languages
 
 <p align="center">
 
@@ -61,29 +61,25 @@ Currently Learning:
 
 ---
 
-## 🚀 Current Projects
+#  Current Projects
 
-- 🔹 Enterprise Data Migration QA Project
-- 🔹 SQL Data Cleaning & Validation
-- 🔹 Python Automation Scripts
-- 🔹 Database Testing Portfolio
+-  Enterprise Data Migration QA Project
+-  SQL Data Cleaning & Validation
+-  Python Automation Scripts
+-  Database Testing Portfolio
 
 ---
 
-## 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_GITHUB">
+<a href="https://github.com/krishaBhattarai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -92,6 +88,6 @@ Currently Learning:
 
 <div align="center">
 
-### ✨ *"Quality is never an accident; it is always the result of intelligent effort."*
+### ⭐ Thanks for visiting!
 
 </div>
