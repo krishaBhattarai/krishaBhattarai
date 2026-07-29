@@ -28,6 +28,9 @@ Currently Learning:
 ```
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&theme=github-dark&hide_border=true&bg_color=0D1117" />
+</p>
 
 #  Tech Stack
 
