@@ -61,8 +61,8 @@ Favorite Quote:
 ## 📅 Contribution Calendar
 
 <p align="center">
-
-<img src="https://ghchart.rshah.org/7AB8F5/krishaBhattarai" alt="Contribution Calendar"/>
+  <img src="https://ghchart.rshah.org/39d353/krishaBhattarai" alt="Contribution Calendar" />
+</p>
 
 </p>
 
