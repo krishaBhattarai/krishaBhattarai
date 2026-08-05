@@ -1,74 +1,143 @@
 <div align="center">
 
-# 🤍 Hi, I'm Krisha Bhattarai
+# 👋 Hi, I'm Krisha Bhattarai
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8CCFFF&center=true&vCenter=true&width=600&lines=QA+Engineer;Python+Developer;SQL+Learner;Always+Learning+New+Things+☁️" />
+### QA Engineer • Python Developer • SQL • Data Migration
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BEEBFF,100:EAF8FF&height=180&section=header&text=Welcome&fontColor=4F81BD&fontSize=45&animation=fadeIn"/>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=7AB8F5&center=true&vCenter=true&width=550&lines=Building+Projects...;Learning+Every+Day...;Future+Software+Engineer"/>
+</p>
+
+---
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td>
 
-# 🌸 About Me
+## 🩵 About Me
 
-```yaml
-Name: Krisha Bhattarai
+```text
+Name        : Krisha Bhattarai
+Education   : BIT Student
+Role        : QA Engineer Intern
 
-Education:
-   • BIT Student
+Currently Learning
 
-Currently Learning:
-   • Python
-   • SQL
-   • Data Migration
-   • QA Testing
+• Python
+• SQL
+• Data Migration
+• Automation Testing
 
-Dream:
-   • Become a Software Engineer
+Location
 
-Location:
-   • Nepal 🇳🇵
-
-Favorite Quote:
-   "Small progress every day."
+📍 Nepal
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-# ☁️ Tech Stack
+<table width="100%">
+<tr>
+<td>
+
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js"/>
 
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 💙 GitHub Stats
+<table width="100%">
+<tr>
+<td>
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&theme=transparent&title_color=7EC8FF&icon_color=8CCFFF&text_color=6A8CAF&border_color=BEEBFF"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&hide_border=true&bg_color=F8FCFF&title_color=5FA8F5&icon_color=74B9FF&text_color=5B6B7B"/>
 
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishaBhattarai&theme=transparent&ring=8CCFFF&fire=BEEBFF&currStreakLabel=8CCFFF&sideLabels=6A8CAF&dates=6A8CAF&border=BEEBFF"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishaBhattarai&hide_border=true&background=F8FCFF&stroke=74B9FF&ring=74B9FF&fire=74B9FF&currStreakLabel=74B9FF"/>
 
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 📈 Contribution Graph
+<table width="100%">
+<tr>
+<td>
+
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&bg_color=ffffff&color=6A8CAF&line=8CCFFF&point=7EC8FF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&bg_color=F8FCFF&color=6A8CAF&line=7AB8F5&point=7AB8F5&area=true&hide_border=true"/>
 
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 🐍 Contribution Snake
+<table width="100%">
+<tr>
+<td>
+
+## 🎯 Current Focus
+
+- Python Development
+- SQL Optimization
+- QA Testing
+- Data Migration
+- Building Real Projects
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="YOUR LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-EAF6FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:YOUR EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EAF6FF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</p>
+
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
 
@@ -76,42 +145,8 @@ Favorite Quote:
 
 </p>
 
----
-
-# 🌷 Currently Working On
-
-🌸 Learning Python
-
-🌸 SQL Projects
-
-🌸 QA Testing
-
-🌸 Data Migration
-
-🌸 GitHub Portfolio
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-EAF8FF?style=for-the-badge&logo=linkedin&logoColor=4F81BD"/>
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EAF8FF?style=for-the-badge&logo=gmail&logoColor=4F81BD"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
-### ☁️ *Always learning something new.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF8FF,100:BEEBFF&height=120&section=footer"/>
+### Always Learning • Always Building
 
 </div>
