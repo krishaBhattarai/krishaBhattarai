@@ -58,15 +58,14 @@ Favorite Quote:
 
 ---
 
-# 📈 Contribution Graph
+## 📅 Contribution Calendar
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&bg_color=ffffff&color=6A8CAF&line=8CCFFF&point=7EC8FF&area=true&hide_border=true"/>
+<img src="https://ghchart.rshah.org/7AB8F5/krishaBhattarai" alt="Contribution Calendar"/>
 
 </p>
 
----
 
 # 🐍 Contribution Snake
 
