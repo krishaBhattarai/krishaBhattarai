@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Krisha Bhattarai
+# 🤍 Hi, I'm Krisha Bhattarai
 
-### QA Engineer • Python Developer • SQL • Data Migration
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8CCFFF&center=true&vCenter=true&width=600&lines=QA+Engineer;Python+Developer;SQL+Learner;Always+Learning+New+Things+☁️" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=QA+Engineer;Python+Developer;SQL+Developer;Data+Migration;Always+Learning+New+Things" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BEEBFF,100:EAF8FF&height=180&section=header&text=Welcome&fontColor=4F81BD&fontSize=45&animation=fadeIn"/>
 
 </div>
 
@@ -16,73 +14,94 @@
 
 ```yaml
 Name: Krisha Bhattarai
-Role: QA Engineer
-Education: BIT Student
-Location: Nepal 🇳🇵
+
+Education:
+   • BIT Student
 
 Currently Learning:
-  - Python
-  - SQL
-  - Data Migration
-  - Automation Testing
+   • Python
+   • SQL
+   • Data Migration
+   • QA Testing
+
+Dream:
+   • Become a Software Engineer
+
+Location:
+   • Nepal 🇳🇵
+
+Favorite Quote:
+   "Small progress every day."
 ```
 
 ---
-<h2 align="center">📅 Contribution Calendar</h2>
-<p align="center">
-<img src="https://ghchart.rshah.org/006d32/krishaBhattarai" />
-</p>
-#  Tech Stack
+
+# ☁️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js" />
 
 </p>
 
 ---
 
-#  GitHub Stats
+# 💙 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=krishaBhattarai&show_icons=true&theme=transparent&title_color=7EC8FF&icon_color=8CCFFF&text_color=6A8CAF&border_color=BEEBFF"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=krishaBhattarai&theme=tokyonight&hide_border=true"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishaBhattarai&theme=transparent&ring=8CCFFF&fire=BEEBFF&currStreakLabel=8CCFFF&sideLabels=6A8CAF&dates=6A8CAF&border=BEEBFF"/>
 
 </p>
 
 ---
 
-#  Most Used Languages
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishaBhattarai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishaBhattarai&bg_color=ffffff&color=6A8CAF&line=8CCFFF&point=7EC8FF&area=true&hide_border=true"/>
 
 </p>
 
 ---
 
-#  Current Projects
-
--  Enterprise Data Migration QA Project
--  SQL Data Cleaning & Validation
--  Python Automation Scripts
--  Database Testing Portfolio
-
----
-
-#  Connect With Me
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<a href="https://github.com/krishaBhattarai">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/krishaBhattarai/krishaBhattarai/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌷 Currently Working On
+
+🌸 Learning Python
+
+🌸 SQL Projects
+
+🌸 QA Testing
+
+🌸 Data Migration
+
+🌸 GitHub Portfolio
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-EAF8FF?style=for-the-badge&logo=linkedin&logoColor=4F81BD"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EAF8FF?style=for-the-badge&logo=gmail&logoColor=4F81BD"/>
 </a>
 
 </p>
@@ -91,6 +110,8 @@ Currently Learning:
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ☁️ *Always learning something new.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF8FF,100:BEEBFF&height=120&section=footer"/>
 
 </div>
