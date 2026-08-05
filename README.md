@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BEEBFF,100:EAF8FF&height=180&section=header&text=Welcome&fontColor=4F81BD&fontSize=45&animation=fadeIn"/>
+   
 # 🤍 Hi, I'm Krisha Bhattarai
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8CCFFF&center=true&vCenter=true&width=600&lines=QA+Engineer;Python+Developer;SQL+Learner;Always+Learning+New+Things+☁️" />
